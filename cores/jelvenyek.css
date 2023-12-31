@@ -1,0 +1,180 @@
+.avatar__08316 + h3 > .headerText_f47574 > .username_d30d99::after {
+  display: inline-block;
+  height: 14px;
+  width: 14px;
+  line-height: 14px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url('');
+  position: relative;
+  top: 2px;
+  margin-left: 5px;
+}
+.avatar__08316 + h3 > .headerText_f47574 > .username_d30d99:hover::after {
+  width: auto;
+  border-radius: 4px;
+  padding: 2px 5px;
+  background-image: none!important;
+  background-color: #0d0d0d;
+  color: #fff;
+  font-size: 12px;
+  top: -1px;
+  font-weight: normal;
+  animation-timing-function: linear;
+  transition: 
+    color .2s ease,
+    background-color .2s ease;
+}
+
+@keyframes rainbow {
+  from{filter: hue-rotate(0deg)}
+  to{filter: hue-rotate(360deg);}
+}
+@keyframes scaleIn {
+  from{transform: scale(.1);}
+  to{transform: scale(1);}
+}
+@keyframes fadeIn {
+  from{opacity: 0;}
+  to{opacity: 1;}
+}
+
+.avatar__08316[src*="1151606353786323025"] + h3 > .headerText_f47574 > .username_d30d99::after {content: "";
+  background-image: url('https://media.tenor.com/images/d6121704077cd3184bbf7ef69815d83d/tenor.gif');}
+.avatar__08316[src*="1151606353786323025"] + h3 > .headerText_f47574 > .username_d30d99:hover::after {
+  content: "Clown";
+  animation: scaleIn .2s linear 1;
+}
+
+.avatar__08316[src*="686201567548145743"] + h3 > .headerText_f47574 > .username_d30d99::after {content: "";
+  background-image: url('https://www.svgrepo.com/show/295320/checkmark.svg');}
+.avatar__08316[src*="686201567548145743"] + h3 > .headerText_f47574 > .username_d30d99:hover::after {
+  content: "ellenorzott";
+  color: white;
+  background-color: #00b8e6;
+  animation: scaleIn .2s linear 1;
+}
+
+.avatar__08316[src*="993880617802539080"]+h3>.headerText_f47574>.username_d30d99::after {
+  content: "";
+  background-image: url('https://cdn.discordapp.com/attachments/808009671423164437/808328899166863400/697995591921172532.gif');
+}
+.avatar__08316[src*="993880617802539080"]+h3>.headerText_f47574>.username_d30d99:hover::after {
+  content: "csabertube";
+  color: black;
+  background-color: #fff;
+  animation: scaleIn .2s linear 1;
+}
+
+.avatar__08316[src*="1138045763226714244"]+h3>.headerText_f47574>.username_d30d99::after {
+  content: "";
+  background-image: url('https://media.discordapp.net/attachments/512011694310948877/829859789538197524/yentThonkThinkSpin.gif');
+}
+.avatar__08316[src*="1138045763226714244"]+h3>.headerText_f47574>.username_d30d99:hover::after {
+  content: "krumpli ember";
+  background-color: #eeeeee;
+  color: #00aa7f;
+  animation: scaleIn .2s linear 1;
+}
+
+.avatar__08316[src*="1187381965700210819"]+h3>.headerText_f47574>.username_d30d99::after {
+  content: "";
+  background-image: url('https://teamcofh.com/assets/images/thermal-foundation-2/basalz-powder.gif');
+}
+
+.avatar__08316[src*="1187381965700210819"]+h3>.headerText_f47574>.username_d30d99:hover::after {
+  content: "atxhh";
+  background-color: #ff0400;
+  color: #FFD700;
+  animation: scaleIn .2s linear 1;
+}
+
+.avatar__08316[src*="1172233026831405168"]+h3>.headerText_f47574>.username_d30d99::after {
+  content: "";
+  background-image: url('https://cdn.discordapp.com/attachments/842194096848371727/842195197101342776/32ce812355e09cd9b958b7da9f6269ba.png');
+}
+
+.avatar__08316[src*="1172233026831405168"]+h3>.headerText_f47574>.username_d30d99:hover::after {
+  content: "sOb";
+  background-color: #001cff;
+  color: #000000;
+  animation: scaleIn .2s linear 1;
+}
+
+.avatar__08316[src*="1131333637892218901"]+h3>.headerText_f47574>.username_d30d99::after {
+  content: "";
+  background-image: url('https://i.ibb.co/T1gYqYX/The-Flamer-Logo.png');
+}
+
+.avatar__08316[src*="1131333637892218901"]+h3>.headerText_f47574>.username_d30d99:hover::after {
+  content: "csabitube";
+  background-color: #000000;
+  color: #FF0000;
+  animation: scaleIn .2s linear 1;
+}
+
+.avatar__08316[src*="994538983667277834"]+h3>.headerText_f47574>.username_d30d99::after {
+  content: "";
+  background-image: url('https://cdn.discordapp.com/attachments/843498694149013506/852992322023194634/Primogem.png');
+}
+
+.avatar__08316[src*="153617374388551680"]+h3>.headerText_f47574>.username_d30d99:hover::after {
+  content: "never give up lol";
+  background-color: #9932CC;
+  color: #ffffff;
+  animation: scaleIn .2s linear 1;
+}
+
+.avatar__08316[src*="897959987962318859"]+h3>.headerText_f47574>.username_d30d99::after {
+  content: "";
+  background-image: url('https://i.imgur.com/4HFMrJ3.png');
+}
+
+.avatar__08316[src*="897959987962318859"]+h3>.headerText_f47574>.username_d30d99:hover::after {
+  content: "yoloo";
+  background-color: #252628;
+  color: #fff;
+  animation: scaleIn .2s linear 1;
+}
+
+.avatar__08316[src*="1188248813530529813"]+h3>.headerText_f47574>.username_d30d99::after {
+  content: "";
+  background-image: url('https://i.imgur.com/7kQcv3Q.gif');
+}
+
+.avatar__08316[src*="1188248813530529813"]+h3>.headerText_f47574>.username_d30d99:hover::after {
+  content: "developer";
+  animation: scaleIn .2s linear 1;
+  background-color: transparent;
+  color: #d078ff;
+}
+
+.avatar__08316[src*="847892649070690334"]+h3>.headerText_f47574>.username_d30d99::after {
+  content: "";
+  background-image: url('https://i.imgur.com/Gw2Rr0E.png');
+}
+
+.avatar__08316[src*="847892649070690334"]+h3>.headerText_f47574>.username_d30d99:hover::after {
+  content: "amogus";
+  animation: fadeIn .5s linear 1;
+  color: #ff8080;
+  width: 75px;
+  text-align: center;
+  background-color: transparent;
+  background-image: url('https://i.imgur.com/bzmEwnm.png') !important;
+}
+
+.avatar__08316[src*="793452725546516501"]+h3>.headerText_f47574>.username_d30d99::after {
+  content: "";
+  background-image: url('https://cdn.discordapp.com/attachments/840032147444203550/977663573050400878/ring.gif');
+}
+
+.avatar__08316[src*="793452725546516501"]+h3>.headerText_f47574>.username_d30d99:hover::after {
+  content: "</>";
+  animation: fadeIn .5s linear 1;
+  color: red;
+  width: 75px;
+  text-align: center;
+  background-color: black;
+}
